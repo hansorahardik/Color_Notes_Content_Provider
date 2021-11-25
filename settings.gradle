@@ -1,0 +1,2 @@
+rootProject.name = "Color_Notes_Content_Provider"
+include ':app'
